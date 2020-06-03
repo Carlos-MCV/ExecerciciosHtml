@@ -1,0 +1,19 @@
+header{
+    width: 1250px;
+    height: 120px;
+    margin-top: 0px;
+    background-color: lawngreen;
+}
+body{
+    background-color: slateblue;
+}
+#centro{
+    width: 125px;
+    height: 570px;
+    background-color:palevioletred;
+}
+#menu{
+    width: 170px;
+    height: 570px;
+    background-color: paleturquoise;
+}
