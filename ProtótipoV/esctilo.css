@@ -7,13 +7,29 @@ header{
 body{
     background-color: slateblue;
 }
-#centro{
-    width: 125px;
-    height: 570px;
-    background-color:palevioletred;
-}
 #menu{
     width: 170px;
-    height: 570px;
+    height: 576px;
+    float: left;
+    left: 0;
     background-color: paleturquoise;
+}
+#artigos{
+    width: 1085px;
+    height: 576px;
+    background-color: paleturquoise ;
+}
+#parceiros{
+    width: 170px;
+    height: 575px;
+    float: right;
+    right: 0;
+    top: 156px;
+    position: absolute;
+    background-color: paleturquoise;
+}
+footer{
+    width: 1250px;
+    height: 50px;
+    background-color: rebeccapurple;
 }
